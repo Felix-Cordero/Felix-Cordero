@@ -6,28 +6,33 @@
 <a href="https://felixcordero.dev/">
 <img src="https://img.shields.io/badge/felixcordero.dev-tutlegreen?style=for-the-badge&logo=github&logoColor=black" alt="portfolio">
 </a>
+<a href="https://developers.google.com/profile/u/felixcorderojr">
+<img src="https://img.shields.io/badge/Google.dev-grey?style=for-the-badge&logo=Google&logoColor=red" alt="Google Dev">
+</a>
 <a href="https://www.linkedin.com/in/felixcorderojr/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://profiles.wordpress.org/felix2020a/">
+<img src="https://img.shields.io/badge/WordPress-%23a8a9ad?style=for-the-badge&logo=WordPress&logoColor=blue" alt="WordPress">
+</a>
 <a href="https://www.instagram.com/felix.web.developer/">
-<img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram" alt="Instagram">
+<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma" alt="Instagram">
+</a>
 <a href="https://www.facebook.com/felix.cordero2018">
 <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=Facebook" alt="Facebook">
 </a>
-<a href="https://developers.google.com/profile/u/felixcorderojr">
-<img src="https://img.shields.io/badge/Google-grey?style=for-the-badge&logo=Google&logoColor=red" alt="Google Dev">
+<a href="https://www.instagram.com/felix.web.developer/">
+<img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram" alt="Instagram">
+</a>
 <a href="https://www.facebook.com/groups/familyfreelancers">
 <img src="https://img.shields.io/badge/My_Community-blue?style=for-the-badge&logo=Facebook" alt="My Community">
-</a>
-<a href="https://profiles.wordpress.org/felix2020a/">
-<img src="https://img.shields.io/badge/WordPress-%23a8a9ad?style=for-the-badge&logo=WordPress&logoColor=blue" alt="WordPress">
 </a>
 <a href="https://rb.gy/tfvlj">
 <img src="https://img.shields.io/badge/Google My Business-white?style=for-the-badge&logo=Google my Business" alt="Google My Business">
 </a>
 <a href="mailto:info@felixcordero.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/EMail-grey?style=for-the-badge&logo=Gmail" alt="E-Mail">
-
+</a>
 </div>
 <break>
 
