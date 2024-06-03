@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-<img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white" alt="java" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
@@ -76,7 +76,7 @@
 </div>
 <h3 align="center" style="padding-top:25px; padding-bottom:25px;">
 
-![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Bilang+ng+mga+Hurado+😄+or+Views&color=green)
+![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Views+as_of+June_3,_2024&color=green)
 
 </h3>
 
