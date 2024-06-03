@@ -1,37 +1,62 @@
-<img src="./f_banner.png" alt="name banner" />
-<div id="#about">About Felix</div>
-
-
-<div align="center">
-<a href="https://felixcordero.dev/">
-<img alt="Static Badge" src="https://img.shields.io/badge/felixcordero.dev-tutlegreen">
-</a>
-<a href="https://www.linkedin.com/in/felixcorderojr/">
-<img alt="Static Badge" src="https://img.shields.io/badge/in-My_LinkedIn-blue">
-</a>
-<a href="https://www.instagram.com/felix.web.developer/">
-<img alt="Static Badge" src="https://img.shields.io/badge/IN-My%20Instagram-%23FF5349">
-<a href="https://www.facebook.com/felix.cordero2018">
-<img alt="Static Badge" src="https://img.shields.io/badge/f-My_FaceBook-blue">
-</a>
-<a href="https://developers.google.com/profile/u/felixcorderojr">
-<img alt="Static Badge" src="https://img.shields.io/badge/Google.dev-My_Dev_Account-white">
-<a href="https://www.facebook.com/groups/familyfreelancers">
-<img alt="Static Badge" src="https://img.shields.io/badge/f-My_Community-blue">
-</a>
-<a href="https://profiles.wordpress.org/felix2020a/">
-<img alt="Static Badge" src="https://img.shields.io/badge/W-My%20WordPress-%23a8a9ad">
-</a>
-<a href="https://rb.gy/tfvlj">
-<img alt="Static Badge" src="https://img.shields.io/badge/G-My%20GMB-blue">
-</a>
-<a href="mailto:info@felixcordero.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/Mail-My%20e_Mail-red">
-
+d<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+</head>
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT</a>
+    <a href="#languages" class="w3-bar-item w3-button w3-padding-large w3-hide-small">PROGRAM</a>
+    <a href="#hosting" class="w3-bar-item w3-button w3-padding-large w3-hide-small">HOSTING</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
+  </div>
 </div>
 
+<div style="padding-top:25px; padding-bottom:25px;">
+<img  src="./f_banner.png" alt="name banner" />
+</div>
+<h2 id="#about">About Felix</h2>
+<div align="center">
+<a href="https://felixcordero.dev/">
+<img alt="Static Badge" src="https://img.shields.io/badge/felixcordero.dev-tutlegreen" alt="portfolio">
+</a>
+<a href="https://www.linkedin.com/in/felixcorderojr/">
+<img alt="Static Badge" src="https://img.shields.io/badge/in-My_LinkedIn-blue" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/felix.web.developer/">
+<img alt="Static Badge" src="https://img.shields.io/badge/IN-My%20Instagram-%23FF5349" alt="Instagram">
+<a href="https://www.facebook.com/felix.cordero2018">
+<img alt="Static Badge" src="https://img.shields.io/badge/f-My_FaceBook-blue" alt="Facebook">
+</a>
+<a href="https://developers.google.com/profile/u/felixcorderojr">
+<img alt="Static Badge" src="https://img.shields.io/badge/Google.dev-My_Dev_Account-white" alt="Google Dev">
+<a href="https://www.facebook.com/groups/familyfreelancers">
+<img alt="Static Badge" src="https://img.shields.io/badge/f-My_Community-blue" alt="My Community">
+</a>
+<a href="https://profiles.wordpress.org/felix2020a/">
+<img alt="Static Badge" src="https://img.shields.io/badge/W-My%20WordPress-%23a8a9ad" alt="WordPress">
+</a>
+<a href="https://rb.gy/tfvlj">
+<img alt="Static Badge" src="https://img.shields.io/badge/G-My%20GMB-blue" alt="Google My Business">
+</a>
+<a href="mailto:info@felixcordero.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/Mail-My%20e_Mail-red" alt="E-Mail">
 
-### Languages, Tools, and Skills 🛠
+</div>
+<break>
+
+<h2 id="#languages" style="padding-top:25px; padding-bottom:25px;">Languages, Tools, and Skills 🛠</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
@@ -52,12 +77,22 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-<img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
+
+
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 </div>
+<h2 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers</h2>
 <div align="center">
+<img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Wix.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
+<img alt="Static Badge" src="https://img.shields.io/badge/GoDaddy.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Wix&color=black&logoColor=green&logoSize=12&color=White">
 
 </div>
+
+
+
+
 <!--
 **Felix-Cordero/Felix-Cordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
