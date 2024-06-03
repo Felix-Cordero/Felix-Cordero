@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 </div>
 <div align="center">
-![](https://komarev.com/ghpvc/?username=https://github.com/Felix-Cordero-username&color=green)
+
 </div>
 <!--
 **Felix-Cordero/Felix-Cordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
