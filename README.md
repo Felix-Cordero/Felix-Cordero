@@ -1,7 +1,7 @@
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
-<h3 id="#about">About Felix</h3>
+<h3 id="#about">About Felix:</h3>
 <div align="center">
 <a href="https://felixcordero.dev/">
 <img alt="Static Badge" src="https://img.shields.io/badge/felixcordero.dev-tutlegreen" alt="portfolio">
@@ -31,7 +31,7 @@
 </div>
 <break>
 
-<h3 id="#languages" style="padding-top:25px; padding-bottom:25px;">Languages, Tools, and Skills 🛠</h3>
+<h3 id="#languages" style="padding-top:25px; padding-bottom:25px;">Languages, Tools, and Skills: 🛠</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
@@ -56,16 +56,16 @@
 
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 </div>
-<h3 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers</h3>
+<h3 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers:</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="aws" />
-<img alt="Static Badge" src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Wix&color=black&logoColor=green&logoSize=12&color=White">
-<img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=google&logoColor=white" alt="google clouds" />
-<img src="https://img.shields.io/badge/Wix.com-white?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black" alt="wix">
-<img src="https://img.shields.io/badge/AZURE-232F3E?style=for-the-badge&logo=Microsoft AZURE&logoColor=white" alt="google clouds" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=orange" alt="aws" />
+<img src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Shopify&logoColor=white&logoSize=12&color=White">
+<img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=google&logoColor=red" alt="google clouds" />
+<img src="https://img.shields.io/badge/AZURE-blue?style=for-the-badge&logo=Microsoft AZURE&logoColor=white" alt="azure" />
+<img src="https://img.shields.io/badge/Wix-black?style=for-the-badge&logo=wix&logocolor=Black&logoSize=12" alt="wix">
 <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-<img src="https://img.shields.io/badge/GoDaddy.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black" alt="godaddy"/>
-
+<img src="https://img.shields.io/badge/GoDaddy-color?style=for-the-badge&logo=GoDaddy&logoSize=12&color=Black" alt="godaddy"/>
+<img src="https://img.shields.io/badge/Namecheap-color?style=for-the-badge&logo=Namecheap&logoSize=12&color=orange" alt="namecheap"/>
 
 </div>
 <h3 align="center" style="padding-top:25px; padding-bottom:25px;">
