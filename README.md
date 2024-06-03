@@ -67,7 +67,11 @@
 
 
 </div>
+<h3 align="center" style="padding-top:25px; padding-bottom:25px;">
 
+![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Profile+Views)
+
+</h3>
 
 
 
