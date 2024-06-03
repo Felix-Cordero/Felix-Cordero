@@ -15,7 +15,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/f-My_FaceBook-blue">
 </a>
 <a href="https://developers.google.com/profile/u/felixcorderojr">
-<img alt="Static Badge" src="https://img.shields.io/badge/Google.dev-https%3A%2F%2Fg.dev%2Ffelixcorderojr-white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Google.dev-My_Dev_Account-white">
 <a href="https://www.facebook.com/groups/familyfreelancers">
 <img alt="Static Badge" src="https://img.shields.io/badge/f-My_Community-blue">
 </a>
