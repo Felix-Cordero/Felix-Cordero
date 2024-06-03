@@ -1,4 +1,4 @@
-<div style="background-color:black;">
+<div color="black">
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/AZURE-blue?style=for-the-badge&logo=Microsoft AZURE&logoColor=white" alt="azure" />
 <img src="https://img.shields.io/badge/Wix-black?style=for-the-badge&logo=wix&logocolor=Black&logoSize=12" alt="wix">
 <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-<img src="https://img.shields.io/badge/GoDaddy-color?style=for-the-badge&logo=GoDaddy&logoSize=12&color=Black" alt="godaddy"/>
+<img src="https://img.shields.io/badge/GoDaddy-white?style=for-the-badge&logo=GoDaddy" alt="godaddy"/>
 <img src="https://img.shields.io/badge/Namecheap-color?style=for-the-badge&logo=Namecheap&logoSize=12&color=orange" alt="namecheap"/>
 
 </div>
