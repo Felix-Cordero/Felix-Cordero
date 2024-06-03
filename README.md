@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+<img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white" alt="java" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
@@ -60,19 +61,18 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="aws" />
 <img alt="Static Badge" src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Wix&color=black&logoColor=green&logoSize=12&color=White">
 <img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=google&logoColor=white" alt="google clouds" />
-<img alt="Static Badge" src="https://img.shields.io/badge/Wix.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
+<img src="https://img.shields.io/badge/Wix.com-white?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black" alt="wix">
 <img src="https://img.shields.io/badge/AZURE-232F3E?style=for-the-badge&logo=Microsoft AZURE&logoColor=white" alt="google clouds" />
 <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-<img alt="Static Badge" src="https://img.shields.io/badge/GoDaddy.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
+<img src="https://img.shields.io/badge/GoDaddy.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black" alt="godaddy"/>
 
 
 </div>
 <h3 align="center" style="padding-top:25px; padding-bottom:25px;">
 
-![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Profile+Views&color=green)
 
 </h3>
-
 
 
 <!--
