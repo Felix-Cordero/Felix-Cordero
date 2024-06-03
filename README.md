@@ -1,9 +1,3 @@
-### Hi there 👋 
-<style>
-body {
-    background-color: #000;
-}
-</style>
 <img src="./f_banner.png" alt="name banner" />
 <div id="#about">About Felix</div>
 
