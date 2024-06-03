@@ -1,27 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<div class="w3-top">
-  <div class="w3-bar w3-black w3-card">
-    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-    <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hide-small">ABOUT</a>
-    <a href="#languages" class="w3-bar-item w3-button w3-padding-large w3-hide-small">PROGRAM</a>
-    <a href="#hosting" class="w3-bar-item w3-button w3-padding-large w3-hide-small">HOSTING</a>
-    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
-  </div>
-</div>
-
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
-<h2 id="#about">About Felix</h2>
+<h3 id="#about">About Felix</h3>
 <div align="center">
 <a href="https://felixcordero.dev/">
 <img alt="Static Badge" src="https://img.shields.io/badge/felixcordero.dev-tutlegreen" alt="portfolio">
@@ -51,7 +31,7 @@
 </div>
 <break>
 
-<h2 id="#languages" style="padding-top:25px; padding-bottom:25px;">Languages, Tools, and Skills 🛠</h2>
+<h3 id="#languages" style="padding-top:25px; padding-bottom:25px;">Languages, Tools, and Skills 🛠</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
@@ -76,7 +56,7 @@
 
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 </div>
-<h2 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers</h2>
+<h3 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
 <img alt="Static Badge" src="https://img.shields.io/badge/Wix.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
