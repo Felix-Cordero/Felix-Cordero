@@ -1,4 +1,4 @@
-<div background-color="#000">
+<div style="background-color:#000;">
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
