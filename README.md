@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
@@ -58,10 +57,14 @@
 </div>
 <h3 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-<img alt="Static Badge" src="https://img.shields.io/badge/Wix.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
-<img alt="Static Badge" src="https://img.shields.io/badge/GoDaddy.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="aws" />
 <img alt="Static Badge" src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Wix&color=black&logoColor=green&logoSize=12&color=White">
+<img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=google&logoColor=white" alt="google clouds" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Wix.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
+<img src="https://img.shields.io/badge/AZURE-232F3E?style=for-the-badge&logo=Microsoft AZURE&logoColor=white" alt="google clouds" />
+<img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
+<img alt="Static Badge" src="https://img.shields.io/badge/GoDaddy.com-color?style=for-the-badge&logo=&backgroundColor=Black&logoSize=12&color=Black">
+
 
 </div>
 
