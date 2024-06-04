@@ -38,7 +38,7 @@
 <break>
 
 <h3 id="#languages" style="padding-top:25px; padding-bottom:25px;">Languages, Tools, and Skills: 🛠</h3>
-<div align="center">
+< align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -59,9 +59,11 @@
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 
-
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
+<img src="https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" />
+<img src="https://img.shields.io/badge/CorelDraw-ogreen?style=for-the-badge&logo=CorelDraw&logoColor=white" alt="CorelDraw" />
 </div>
+
 <h3 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers:</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=orange" alt="aws" />
@@ -76,7 +78,7 @@
 </div>
 <h3 align="center" style="padding-top:25px; padding-bottom:25px;">
 
-![Felix-Cordero GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Cordero&show_icons=true&theme=radical)
+![Felix-Cordero GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Cordero&show_icons=true&theme=highcontrast)
 
 ![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Views+as_of+June_3,_2024&color=green)
 
