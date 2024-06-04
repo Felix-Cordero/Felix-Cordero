@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Felix</title>
 </head>
 <body>
 <div style="background-color:#000;">
