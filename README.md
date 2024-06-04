@@ -84,16 +84,28 @@
 <div align="center" style="color:white; padding-top:25px; padding-bottom:25px;">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
+<img src="https://img.shields.io/badge/asana-orange?style=for-the-badge&logo=asana&logoColor=white" alt="asana" />
+<img src="https://img.shields.io/badge/slack-fff?style=for-the-badge&logo=slack&logoColor=red" alt="slack" />
+<img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
+<img src="https://img.shields.io/badge/trello-color?style=for-the-badge&logo=trello&logoColor=" alt="jira" />
 </div>
+
 <div align="center" style="color:white; padding-top:25px; padding-bottom:25px;">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-
+<img src="https://img.shields.io/badge/Adobe XD-purple?style=for-the-badge&logo=Adobe XD&logoColor=white" alt="xd" />
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 <img src="https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" />
 <img src="https://img.shields.io/badge/CorelDraw-ogreen?style=for-the-badge&logo=CorelDraw&logoColor=white" alt="CorelDraw" />
 <img src="https://img.shields.io/badge/krita-yellow?style=for-the-badge&logo=Krita&logoColor=white" alt="Krita" />
 
 <img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva&logoColor=white" alt="canva" />
+</div>
+
+<div align="center" style="color:white; padding-top:25px; padding-bottom:25px;">
+<img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=Blender&logoColor=white" alt="blender" />
+<img src="https://img.shields.io/badge/After Fx-purple?style=for-the-badge&logo=Adobe After Effects&logoColor=white" alt="after fx" />
+<img src="https://img.shields.io/badge/Premiere Pro-blue?style=for-the-badge&logo=Adobe Premiere pro&logoColor=purple" alt="after fx" />
+
 </div>
 </div>
 
