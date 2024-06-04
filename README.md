@@ -1,4 +1,5 @@
-<div style="background-color:rgba(0, 0, 0, 0,);">
+<html>
+<div style="background-color:#000;">
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
@@ -125,3 +126,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</html>
