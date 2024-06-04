@@ -7,8 +7,8 @@
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
-<h3 id="#about" style="color:white;">About Felix:</h3>
-<div align="center">
+<h3 id="#about" style="color:white; padding-top:25px; padding-bottom:25px;">About Felix:</h3>
+<div align="center" style="color:white; padding-top:25px; padding-bottom:25px;">
 <a href="https://felixcordero.dev/">
 <img src="https://img.shields.io/badge/felixcordero.dev-tutlegreen?style=for-the-badge&logo=github&logoColor=black" alt="portfolio">
 </a>
@@ -43,7 +43,7 @@
 <break>
 
 <h3 id="#languages" style="padding-top:25px; padding-bottom:25px; background-color:black; color:white;">Languages, Tools, and Skills: 🛠</h3>
-<div align="center">
+<div align="center" style="color:white; padding-top:25px; padding-bottom:25px;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
