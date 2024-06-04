@@ -76,13 +76,15 @@
 </div>
 <h3 align="center" style="padding-top:25px; padding-bottom:25px;">
 
+![Felix-Cordero GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Cordero&show_icons=true&theme=radical)
+
 ![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Views+as_of+June_3,_2024&color=green)
 
 </h3>
 
 </div>
 
-![Felix-Cordero GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Cordero&show_icons=true&theme=radical)
+
 
 <!--
 **Felix-Cordero/Felix-Cordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
