@@ -1,4 +1,8 @@
 <html>
+<head>
+<title>Felix</title>
+</head>
+<body>
 <div style="background-color:#000;">
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
@@ -126,4 +130,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
 </html>
