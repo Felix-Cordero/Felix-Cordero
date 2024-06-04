@@ -2,7 +2,7 @@
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
-<h3 id="#about">About Felix:</h3>
+<h3 id="#about" style="color:white;">About Felix:</h3>
 <div align="center">
 <a href="https://felixcordero.dev/">
 <img src="https://img.shields.io/badge/felixcordero.dev-tutlegreen?style=for-the-badge&logo=github&logoColor=black" alt="portfolio">
@@ -37,8 +37,8 @@
 </div>
 <break>
 
-<h3 id="#languages" style="padding-top:25px; padding-bottom:25px;">Languages, Tools, and Skills: 🛠</h3>
-< align="center">
+<h3 id="#languages" style="padding-top:25px; padding-bottom:25px; background-color:black; color:white;">Languages, Tools, and Skills: 🛠</h3>
+<div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -63,9 +63,10 @@
 <img src="https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" />
 <img src="https://img.shields.io/badge/CorelDraw-ogreen?style=for-the-badge&logo=CorelDraw&logoColor=white" alt="CorelDraw" />
 </div>
+</div>
 
-<h3 id="#hosting" style="padding-top:25px; padding-bottom:25px;">CMS, Hosting and Servers:</h3>
-<div align="center">
+<div id="#hosting" style="padding-top:25px; padding-bottom:25px; background-color:black; color:white;"><h3 style="color:white;">CMS, Hosting and Servers:</h3></div>
+<div align="center" style="padding-top:25px; padding-bottom:25px; background-color:black;">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=orange" alt="aws" />
 <img src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Shopify&logoColor=white&logoSize=12&color=White">
 <img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=google&logoColor=red" alt="google clouds" />
@@ -76,13 +77,13 @@
 <img src="https://img.shields.io/badge/Namecheap-color?style=for-the-badge&logo=Namecheap&logoSize=12&color=orange" alt="namecheap"/>
 
 </div>
-<h3 align="center" style="padding-top:25px; padding-bottom:25px;">
+<div align="center" style="padding-top:25px; padding-bottom:25px; background-color:black;">
 
 ![Felix-Cordero GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Cordero&show_icons=true&theme=highcontrast)
 
 ![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Views+as_of+June_3,_2024&color=green)
 
-</h3>
+</div>
 
 </div>
 
