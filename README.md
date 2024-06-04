@@ -1,4 +1,4 @@
-<div style="background-color:black;">
+<div style="background-color:rgba(0, 0, 0, 0,);">
 <div style="padding-top:25px; padding-bottom:25px;">
 <img  src="./f_banner.png" alt="name banner" />
 </div>
@@ -44,37 +44,59 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
+
+
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+
+
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
+<img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=node-dot-Expressjs&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
+<img src="https://img.shields.io/badge/Laravel-FF6C37?style=for-the-badge&logo=Laravel&logoColor=white" alt="laravel" />
+<img src="https://img.shields.io/badge/CodeIgniter-ffffff?style=for-the-badge&logo=codeigniter&logoColor=red" alt="codeigniter" />
+<img src="https://img.shields.io/badge/Angular JS-red?style=for-the-badge&logo=angular&logoColor=" alt="angular" />
+<img src="https://img.shields.io/badge/Joomla-ffffff?style=for-the-badge&logo=joomla&logoColor=" alt="joomla" />
+
+
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
+
+
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 <img src="https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" />
 <img src="https://img.shields.io/badge/CorelDraw-ogreen?style=for-the-badge&logo=CorelDraw&logoColor=white" alt="CorelDraw" />
+<img src="https://img.shields.io/badge/krita-yellow?style=for-the-badge&logo=Krita&logoColor=white" alt="Krita" />
+
+<img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva&logoColor=white" alt="canva" />
 </div>
 </div>
 
 <div id="#hosting" style="padding-top:25px; padding-bottom:25px; background-color:black; color:white;"><h3 style="color:white;">CMS, Hosting and Servers:</h3></div>
 <div align="center" style="padding-top:25px; padding-bottom:25px; background-color:black;">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=orange" alt="aws" />
-<img src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Shopify&logoColor=white&logoSize=12&color=White">
+<img src="https://img.shields.io/badge/Shopify-color?style=for-the-badge&logo=Shopify&logoColor=white&logoSize=12&color=White" alt=shopify />
 <img src="https://img.shields.io/badge/Google Cloud-232F3E?style=for-the-badge&logo=google&logoColor=red" alt="google clouds" />
 <img src="https://img.shields.io/badge/AZURE-blue?style=for-the-badge&logo=Microsoft AZURE&logoColor=white" alt="azure" />
-<img src="https://img.shields.io/badge/Wix-black?style=for-the-badge&logo=wix&logocolor=Black&logoSize=12" alt="wix">
+<img src="https://img.shields.io/badge/Wix-black?style=for-the-badge&logo=wix&logocolor=Black&logoSize=12" alt="wix"/>
 <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
 <img src="https://img.shields.io/badge/GoDaddy-white?style=for-the-badge&logo=GoDaddy" alt="godaddy"/>
 <img src="https://img.shields.io/badge/Namecheap-color?style=for-the-badge&logo=Namecheap&logoSize=12&color=orange" alt="namecheap"/>
+<img src="https://img.shields.io/badge/Z.com-white?style=for-the-badge&logo=GMO internet group&logoSize=12&color=red" alt="z.com"/>
+<img src="https://img.shields.io/badge/HostGator-whote?style=for-the-badge&logo=Hostgator&logoSize=12&color=blue" alt="hostgator"/>
+<img src="https://img.shields.io/badge/VentraIP-color?style=for-the-badge&logo=VentraIP&logoSize=12&color=orange" alt="ventraip"/>
 
 </div>
 <div align="center" style="padding-top:25px; padding-bottom:25px; background-color:black;">
