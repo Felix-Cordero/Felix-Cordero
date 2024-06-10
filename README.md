@@ -124,9 +124,16 @@
 <img src="https://img.shields.io/badge/VentraIP-color?style=for-the-badge&logo=VentraIP&logoSize=12&color=orange" alt="ventraip"/>
 
 </div>
+
+### Activities
+| | |
+| :--- | ---: |
+| ![](https://github-readme-stats.vercel.app/api?username=Felix-Cordero&show_icons=true&theme=highcontrast) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Felix-Cordero&theme=highcontrast) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Cordero&layout=compact&theme=highcontrast)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Felix-Cordero&theme=highcontrast) |
+
 <div align="center" style="padding-top:25px; padding-bottom:25px; background-color:black;">
 
-![Felix-Cordero GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Cordero&show_icons=true&theme=highcontrast)
+
 
 ![](https://komarev.com/ghpvc/?username=Felix-Cordero&label=Views+as_of+June_3,_2024&color=green)
 
